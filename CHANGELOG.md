@@ -1,28 +1,20 @@
-Dungeon Zero — Changelog
+# Changelog
 
-All notable development updates are documented here.
+## [0.1.0] - 2026-11-19
 
-[0.1.0] — Development Started
+### Project
+- Established Dungeon Zero as a Python and Pygame RPG.
+- Finalized the initial Game Design Document.
+- Defined the core gameplay direction.
 
-Added
-
-- Initial project repository.
-- Game Design Document (GDD) version 1.0.
-- Cursed kingdom dark-fantasy setting.
-- Real-time combat concept.
+### Game Design
+- Real-time combat.
 - Procedurally generated dungeons.
-- Top-down camera with a slightly angled perspective.
 - Customizable player character.
 - Checkpoint-based progression.
-- Inventory retention after death.
+- Persistent inventory after death.
 
-Planned
-
-- Dungeon generation system.
-- Player movement and controls.
-- Combat mechanics.
-- Enemy AI.
-- Inventory system.
-- Save and checkpoint system.
-
-Status: Early Development
+### Development
+- Repository initialized.
+- Initial documentation completed.
+- Core gameplay implementation pending.
